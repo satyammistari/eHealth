@@ -30,9 +30,9 @@ Follow these steps:
 cd <YOUR_PROJECT_NAME>
 
   #Install Dependancies
-1) npm instal
-2) npm run dev
-Step 3: Start the development server with auto-reloading and an instant preview.
+Step 1: npm install
+
+Step 2: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
 
